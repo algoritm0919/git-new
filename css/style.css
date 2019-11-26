@@ -1,8 +1,10 @@
 body {
-    background: rgb(255, 120, 120);
+    background: rgb(80, 247, 233);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
     font-size: 90px;
+    color: salmon;
+    font-weight: bold;
 }
